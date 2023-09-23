@@ -1,4 +1,33 @@
 .main {
-  background-color: FAEBD7;
-  
+  background-color: #F5F5F5; /*this is controling cs-paradigms label. corresponds to h1 div*/
 }
+
+
+.box {
+	border-radius: 10px;
+	margin-top: 1rem;
+	width: 60%;
+	height: 400px;
+	padding: 10px 10px 10px 10px;
+	background-color: #f5f5f5;
+	box-shadow: 1px 1px 10px 0px lightblue;
+	/*border: 1px solid lightblue;*/
+	transition: linear all 0.1s;
+	cursor: pointer;
+	margin-top: 150px;
+	margin-left: 20%;
+
+
+}
+
+/* Box shadow 
+.box:hover {
+	box-shadow: 1px 1px 10px 0px lightblue;
+}
+
+*/
+
+
+
+
+

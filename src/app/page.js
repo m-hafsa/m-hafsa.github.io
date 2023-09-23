@@ -11,6 +11,11 @@ export default function Home() {
 	<h2>
 	  <Link href="/about">hello</Link>
 	</h2>
+	<div className={styles.box}>
+	  <p>
+	      some text for search box
+	  </p>	
+	</div>
       </div>
     </main>
   )
