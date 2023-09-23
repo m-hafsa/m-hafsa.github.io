@@ -2,7 +2,11 @@
   background-color: #F5F5F5; /*this is controling cs-paradigms label. corresponds to h1 div*/
 }
 
-
+/*
+ * centering is tied to half of width being assigned to margin-left.
+ * it is also tied to half of height being assigned to margin top. (i know units are exact but i like this so far.)
+ *
+ * */
 .box {
 	border-radius: 10px;
 	margin-top: 1rem;
